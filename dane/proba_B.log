@@ -1,0 +1,6 @@
+INFO;B01;start
+TIMEOUT;B02;brak_odpowiedzi
+ERROR;B03;blad_potwierdzenia
+TIMEOUT;B04;ponowienie_nieudane
+ERROR;B05;rozlaczenie
+INFO;B06;stop

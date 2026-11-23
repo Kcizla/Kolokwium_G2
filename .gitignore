@@ -1,0 +1,5 @@
+# Wyklucz tylko pliki edytora/tymczasowe — raporty są częścią rozwiązania.
+*~
+*.swp
+*.tmp
+.DS_Store

@@ -1,0 +1,5 @@
+INFO;A01;start
+ERROR;A02;utrata_pakietu
+WARN;A03;opoznienie
+INFO;A04;transmisja_ok
+INFO;A05;stop

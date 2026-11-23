@@ -1,0 +1,7 @@
+INFO;D01;start
+TIMEOUT;D02;timeout_pomiar
+ERROR;D03;blad_ramki
+TIMEOUT;D04;timeout_zapisu
+INFO;D05;retransmisja
+TIMEOUT;D06;timeout_potwierdzenia
+ERROR;D07;utrata_synchronizacji

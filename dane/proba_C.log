@@ -1,0 +1,5 @@
+INFO;C01;start
+TIMEOUT;C02;spozniony_pakiet
+WARN;C03;niski_sygnal
+INFO;C04;transmisja_ok
+INFO;C05;stop
